@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonAlvarado
 - 👀 I’m interested in Web apps development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on .Net and React projects
+- 💞️ I’m looking to collaborate on .Net and Javascript projects
 - 📫 How to reach me: alvaradojasondev@gmail.com
 
 <!---
