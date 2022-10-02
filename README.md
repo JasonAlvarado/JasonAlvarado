@@ -10,10 +10,8 @@
   -   https://linkedin.com/in/jason-alvarado
 
 - Tools I use: 
-  -  Javascript
-  -  Node js
-  -  React
-  -  Next js
+  -  Javascript & Typescript
+  -  Node.js & Nest.js
+  -  React & Next js
   -  .NET and .NET Core
   -  SQL Server and PostgreSQL
-  
