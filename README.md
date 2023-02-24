@@ -12,7 +12,4 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAlvarado&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
